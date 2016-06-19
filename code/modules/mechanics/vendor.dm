@@ -1,5 +1,5 @@
 /obj/machinery/vending/mechcomp
-	name = "MechComps dispenser"
+	name = "Mechanical Computers dispenser"
 	desc = "Go haywire."
 	products = list(	/obj/item/mechcomp/andcomp = 40,
 						/obj/item/mechcomp/button = 40,

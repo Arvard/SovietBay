@@ -2,7 +2,7 @@
 		The button
 */
 /obj/item/mechcomp/button
-	name = "button"
+	name = "Mechanical Computer button"
 	desc = "A normal button. Dare to press it?"
 
 	icon_state = "comp_button"

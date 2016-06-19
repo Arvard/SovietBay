@@ -1,5 +1,5 @@
 /obj/item/mechcomp/mic
-	name = "microphone"
+	name = "Mechanical Computer microphone"
 	desc = "Sh-h-h... Be vewy, vewy quiet!"
 
 	icon_state = "comp_mic"

@@ -1,5 +1,5 @@
 /obj/item/mechcomp/toggle
-	name = "toggle component"
+	name = "Mechanical Computer toggle component"
 	desc = "A high-tech lightswitch"
 
 	icon_state = "comp_toggle"

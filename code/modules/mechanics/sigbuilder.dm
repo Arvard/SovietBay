@@ -1,5 +1,5 @@
 /obj/item/mechcomp/sigbuilder
-	name = "signal builder"
+	name = "Mechanical Computer signal builder"
 	desc = "Ain't Bob."
 
 	icon_state = "comp_builder"

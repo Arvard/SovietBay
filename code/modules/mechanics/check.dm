@@ -1,5 +1,5 @@
 /obj/item/mechcomp/check
-	name = "signal-check component"
+	name = "Mechanical Computer signal-check"
 	desc = "Don't fold or go all-in yet!"
 
 	icon_state = "comp_check"

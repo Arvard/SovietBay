@@ -1,5 +1,5 @@
 /obj/item/mechcomp/payment
-	name = "payment terminal"
+	name = "Mechanical Computer payment terminal"
 	desc = "All the money in this world can't buy your love... Just kidding."
 
 	icon_state = "comp_money"

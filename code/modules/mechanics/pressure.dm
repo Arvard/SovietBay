@@ -1,5 +1,5 @@
 /obj/item/mechcomp/pressure
-	name = "pressure sensor"
+	name = "Mechanical Computer pressure sensor"
 	desc = "Tread lightly..."
 
 	icon_state = "comp_pressure"

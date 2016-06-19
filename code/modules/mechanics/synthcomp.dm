@@ -1,5 +1,5 @@
 /obj/item/mechcomp/synthcomp
-	name = "sound synthesizer"
+	name = "Mechanical Computer sound synthesizer"
 	desc = "Now YOUR room can also have fucking Tourettes!"
 
 	icon_state = "comp_synth"

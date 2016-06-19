@@ -3,7 +3,7 @@
 //TODO : add a receiver
 
 /obj/item/mechcomp/radiocomp
-	name = "Radio component"
+	name = "Mechanical Computer radio"
 	desc = "Major Tom to Ground Control..."
 
 	icon_state = "comp_radiosig"

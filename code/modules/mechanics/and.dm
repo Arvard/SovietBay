@@ -1,5 +1,5 @@
 /obj/item/mechcomp/andcomp
-	name = "\improper AND gate"
+	name = "Mechanical Computer AND "
 	desc = "It only lets couples through."
 
 	icon_state = "comp_and"

@@ -1,5 +1,5 @@
 /obj/item/mechcomp/paperscan
-	name = "paper scanner"
+	name = "Mechanical Computer paper scanner"
 	desc = "Papers, please."
 
 	icon_state = "comp_pscan"

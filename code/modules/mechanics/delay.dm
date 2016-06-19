@@ -1,5 +1,5 @@
 /obj/item/mechcomp/delaycomp
-	name = "delay component"
+	name = "Mechanical Computer delay"
 	desc = "Ve-e-ery slo-o-ow."
 
 	icon_state = "comp_wait"

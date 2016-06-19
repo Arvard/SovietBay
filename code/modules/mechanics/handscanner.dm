@@ -1,5 +1,5 @@
 /obj/item/mechcomp/handscanner
-	name = "hand scanner"
+	name = "Mechanical Computer hand scanner"
 	desc = "MAXIMUM SECURITY!!!"
 
 	icon_state = "comp_hscan"

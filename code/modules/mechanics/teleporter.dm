@@ -15,7 +15,7 @@
 
 
 /obj/item/mechcomp/teleporter
-	name = "teleporter"
+	name = "Mechanical Computer teleporter"
 	desc = "Beam me up, Scotty!"
 
 	icon_state = "comp_tele"
@@ -52,9 +52,12 @@
 		//1.Should it be just 1 thing at a time?
 		//2. What about 20 things at a time?
 		//3.If not, should all the items teleport to 1 pad?
+//		for(var/atom/movable/what in src.loc)
+//			if(!what.anchored)
+//				do_teleport(what, pick(destinations))
+		//For EVERITHING
 		for(var/atom/movable/what in src.loc)
-			if(!what.anchored)
-				do_teleport(what, pick(destinations))
+			do_teleport(what, pick(destinations))
 
 /obj/item/mechcomp/teleporter/proc/setID(signal)
 	id = signal

@@ -1,5 +1,5 @@
 /obj/item/mechcomp/selectcomp
-	name = "selection component"
+	name = "Mechanical Computer selection"
 	desc = "Gotta store them all!"
 
 	icon_state = "comp_selector"

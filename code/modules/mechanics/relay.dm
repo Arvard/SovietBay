@@ -1,5 +1,5 @@
 /obj/item/mechcomp/relay
-	name = "relay"
+	name = "Mechanical Computer relay"
 	desc = "Somebody's gonna get RE-laid. Ha-ha."
 
 	icon_state = "comp_relay"

@@ -1,5 +1,5 @@
 /obj/item/mechcomp/led
-	name = "\improper LED"
+	name = "Mechanical Computer LED"
 	desc = "O-o-oh, shiny!"
 
 	icon_state = "comp_led"

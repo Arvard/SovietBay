@@ -1,5 +1,5 @@
 /obj/item/mechcomp/orcomp
-	name = "\improper OR component"
+	name = "Mechanical Computer OR"
 	desc = "'To be OR not to be' - always true."
 
 	icon_state = "comp_or"

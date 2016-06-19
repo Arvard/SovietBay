@@ -1,6 +1,6 @@
 //Differs from the goons version in order too keep the behaviour consistent with the teleporter
 /obj/item/mechcomp/graviton
-	name = "graviton launcher"
+	name = "Mechanical Computer graviton launcher"
 	desc = "'Ere we go!"
 
 	icon_state = "comp_accel"
@@ -43,7 +43,7 @@
 		switch(href_list["launcher_action"])
 			if("set_range")
 				range = input(user, "Enter new range(1-10)", "Set range") as num
-				range = max(range, 1)
+				range = min(range, 1)
 				range = max(range, 10)
 
 		return MT_REFRESH
